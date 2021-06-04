@@ -1,0 +1,65 @@
+﻿  Administrator.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\HP\source\repos\Project2\Project2\Administrator.cpp(199,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\HP\source\repos\Project2\Project2\Administrator.cpp(200,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  binary.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+  b_matr.cpp
+  claster.cpp
+  clowd.cpp
+  Controller.cpp
+C:\Users\HP\source\repos\Project2\Project2\Controller.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  create_sp.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+  dbbinary.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+  dbwave.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+  Delaunay_triangulation.cpp
+  d_matr.cpp
+  em_alg.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\HP\source\repos\Project2\Project2\em_alg.cpp(120,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\HP\source\repos\Project2\Project2\em_alg.cpp(121,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\HP\source\repos\Project2\Project2\em_alg.cpp(172,24): warning C4244: /=: преобразование "double" в "float", возможна потеря данных
+  field.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+  find_cl.cpp
+  forel.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+  ierarch.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+  Interpolation.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+  k_sredn.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+  k_sredn_yadr.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+  matrx.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+  Компиляция...
+  point.cpp
+C:\Users\HP\source\repos\Project2\Project2\point.cpp(8,21): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\HP\source\repos\Project2\Project2\point.cpp(84,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\HP\source\repos\Project2\Project2\point.cpp(85,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Proxy.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\HP\source\repos\Project2\Project2\Proxy.cpp(37,43): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Segment.cpp
+  Source.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\HP\source\repos\Project2\Project2\Source.cpp(28,15): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\HP\source\repos\Project2\Project2\Source.cpp(78,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Source.cpp(79,27): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\HP\source\repos\Project2\Project2\Source.cpp(84,23): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+  sp_tree.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+  Triangle.cpp
+  TVector.cpp
+  wave.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1465 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Project2.vcxproj -> C:\Users\HP\source\repos\Project2\x64\Release\Project2.exe

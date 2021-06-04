@@ -1,0 +1,5 @@
+set multiplot
+set yrange[-60:60]
+set xrange [-150:150]
+set palette defined (0 "brown",1 "blue", 2 "green",3 "red", 4 "orange")
+plot "output_claster_exp2.txt"w l palette, "output_claster_exp2.txt" w p palette
